@@ -849,6 +849,18 @@ Eigen-3.3/Eigen/QR
 /Users/guetteluis/Projects/udacity/self-driving-cars/term3/CarND-Path-Planning/src/Eigen-3.3/Eigen/QR
 json.hpp
 /Users/guetteluis/Projects/udacity/self-driving-cars/term3/CarND-Path-Planning/src/json.hpp
+spline.h
+/Users/guetteluis/Projects/udacity/self-driving-cars/term3/CarND-Path-Planning/src/spline.h
+
+/Users/guetteluis/Projects/udacity/self-driving-cars/term3/CarND-Path-Planning/src/spline.h
+cstdio
+-
+cassert
+-
+vector
+-
+algorithm
+-
 
 /usr/local/include/uWS/Extensions.h
 string
