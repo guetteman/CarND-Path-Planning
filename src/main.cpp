@@ -307,7 +307,7 @@ int main() {
                 ref_vel += 0.224;
             }
 
-            if (car_lane != 1) {
+            if (!is_car_ahead && car_lane != 1) {
                 if (!is_car_left && lane == 2) {
                     lane -= 1;
                 } else if (!is_car_right && lane == 0) {
