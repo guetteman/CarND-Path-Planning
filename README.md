@@ -83,7 +83,9 @@ the path has processed since last time.
     git checkout e94b6e1
     ```
 
-The project has three parts:
+## Reflection
+
+Based on the provided code, we will explain with detail the process. The project has three parts:
 
 - **Prediction:** In this part we have to gather data from **sensor fusion** and **telemetry** to know if We have:
 
